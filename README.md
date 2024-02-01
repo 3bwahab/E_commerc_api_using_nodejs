@@ -41,12 +41,8 @@ Welcome to the E-Commerce Backend Project! This project focuses on building the 
 
 ## Run The Application
 
-### 1. ** Create a .env file and set  database connection string**
+ 1. ** Create a .env file and set  database connection string**
    
-
-
-
-
 
 2. **Install Dependencies:**
    ```bash
