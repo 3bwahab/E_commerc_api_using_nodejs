@@ -36,7 +36,7 @@ Welcome to the E-Commerce Backend Project! This project focuses on building the 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/e-commerce-backend.git
+   git clone https://github.com/3bwahab/E_commerc_api_using_nodejs.git
 
 
 ## Run The Application
@@ -49,9 +49,3 @@ Welcome to the E-Commerce Backend Project! This project focuses on building the 
 2. **For Production Mode:**
    ```bash
    npm run start:prod
-
-
-
-
-
-
