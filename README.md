@@ -41,11 +41,18 @@ Welcome to the E-Commerce Backend Project! This project focuses on building the 
 
 ## Run The Application
 
+1. **Configure Environment Variables:**
+   Create a .env file and set necessary environment variables (e.g., database connection string)
 
-1. **For Dev Mode:**
+
+2. **Install Dependencies:**
+   ```bash
+     npm install
+
+3. **For Dev Mode:**
    ```bash
    npm run start:dev
 
-2. **For Production Mode:**
+4. **For Production Mode:**
    ```bash
    npm run start:prod
