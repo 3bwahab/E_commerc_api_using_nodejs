@@ -41,8 +41,8 @@ Welcome to the E-Commerce Backend Project! This project focuses on building the 
 
 ## Run The Application
 
-###1. **Configure Environment Variables:**
-   ###Create a .env file and set necessary environment variables (e.g., database connection string)
+### 1. **Configure Environment Variables:**
+   ### Create a .env file and set necessary environment variables (e.g., database connection string)
 
 
 2. **Install Dependencies:**
