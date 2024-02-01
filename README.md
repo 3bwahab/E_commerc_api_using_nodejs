@@ -7,7 +7,7 @@ Welcome to the E-Commerce Backend Project! This project focuses on building the 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Run The Application](#run-application)
+- [Run The Application](#run-the-application)
 
 ## Features
 
